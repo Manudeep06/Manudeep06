@@ -1,75 +1,95 @@
+# <div align="center">👋 Hi, I'm **Korupolu Manudeep**</div>
 
-# Hi 👋, I'm Korupolu Manudeep
+<div align="center">
+
+### 🚀 Full Stack Developer • AI Enthusiast • AWS Learner • Competitive Programmer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Building+AI+Powered+Applications;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;AWS+Cloud+Enthusiast;140%2B+LeetCode+Problems+Solved" />
+
+<br>
+
+<a href="mailto:manudeepkorupolu01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Manudeep06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://leetcode.com/u/76718/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+
+![](https://komarev.com/ghpvc/?username=Manudeep06&style=for-the-badge)
+
+</div>
+
+---
+
+# 💫 About Me
+
+```yaml
+Name        : Korupolu Manudeep
+Education   : B.Tech CSE @ VIT Vellore
+Focus       : Full Stack • AI • Cloud
+Languages   : C++ Java JavaScript SQL
+Backend     : Node.js Express
+Frontend    : React Tailwind CSS
+Database    : MongoDB Firebase
+Cloud       : AWS
+```
+
+- 🔭 Building **CodeFusion AI**
+- 🌱 Learning **System Design & Advanced AWS**
+- 💡 Love solving DSA problems and building developer tools.
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Application+Developer;AWS+Cloud+Learner;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies"/>
-</p>
-
-<p align="center">
-<a href="mailto:manudeepkorupolu01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/Manudeep06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-<a href="https://leetcode.com/u/76718/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,react,nodejs,express,mongodb,firebase,tailwind,aws,git,github,vscode,html,css"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 Featured Projects
 
-- 🎓 B.Tech CSE @ VIT Vellore
-- 💻 Full Stack Developer
-- 🤖 AI Enthusiast
-- ☁️ AWS Cloud Learner
-- 🧠 Strong in DSA, OOP, DBMS, OS & CN
-- 🚀 Building **CodeFusion AI**.
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,react,nodejs,express,mongodb,firebase,tailwind,aws,git,github,vscode"/>
-</p>
-
-## 🚀 Projects
-
-### 🤖 CodeFusion AI
-- AI Code Generation
-- AI Debugging
-- AI Explanation
-- Real-Time Collaboration
+## 🤖 CodeFusion AI
+AI-powered collaborative coding platform with:
+- Real-time collaboration
+- AI code generation & debugging
 - Monaco Editor
-- WebContainer
-- MongoDB
+- WebContainer Terminal
 - Firebase Authentication
+- MongoDB + Socket.IO
 
-Live Demo: https://codefusionai-m.vercel.app
+**Stack:** React • Node.js • Express • MongoDB • Firebase • Tailwind CSS
 
-### 🍽 Restaurant Management System
-Responsive ordering platform using Firebase.
+🌐 https://codefusionai-m.vercel.app
 
-### 🔳 QR Code Generator
-Generate and download QR codes instantly.
+## 🍽 Restaurant Management System
+Responsive ordering platform using Firebase Authentication and Firestore.
+
+## 🔳 QR Code Generator
+Fast, responsive QR code generator with download support.
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manudeep06&show_icons=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manudeep06&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manudeep06&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manudeep06&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Manudeep06&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Manudeep06&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Manudeep06&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Manudeep06&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manudeep06&theme=tokyo-night"/>
 </p>
 
-## 💻 LeetCode
+---
+
+# 💻 LeetCode
 
 <p align="center">
 <a href="https://leetcode.com/u/76718/">
@@ -77,47 +97,61 @@ Generate and download QR codes instantly.
 </a>
 </p>
 
-- ✅ 140+ Problems Solved
-- 💻 Primary Language: C++
-- 📚 Arrays, Strings, Trees, Graphs, DP, Sliding Window, Greedy
+- 🧩 140+ Problems Solved
+- ⚡ Primary Language: C++
+- 📚 Focus: DSA, Interview Preparation
 
-## ☁️ AWS
+---
 
+# ☁️ Cloud & Certifications
+
+### AWS
 - EC2
-- S3
 - Lambda
 - API Gateway
 - IAM
+- S3
 - Bedrock
 
-## 📜 Certifications
+### Oracle
+- Oracle Cloud Infrastructure 2025 Generative AI Professional
+- Oracle Cloud Infrastructure 2025 Foundations Associate
 
-- OCI 2025 Generative AI Professional
-- OCI 2025 Foundations Associate
+---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - System Design
+- AI Agents
 - Advanced React
 - Scalable Backend Architecture
 
-## 📫 Contact
+---
 
-- Email: manudeepkorupolu01@gmail.com
-- GitHub: https://github.com/Manudeep06
-- LeetCode: https://leetcode.com/u/76718/
+# 📫 Connect
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Manudeep06&style=for-the-badge"/>
-</p>
+- 📧 Email: **manudeepkorupolu01@gmail.com**
+- 💻 GitHub: https://github.com/Manudeep06
+- 🧩 LeetCode: https://leetcode.com/u/76718/
 
-## 🐍 Contribution Snake
+---
 
-```markdown
+# 🐍 Contribution Snake
+
+After creating the `output` branch and enabling the `Platane/snk` GitHub Action, add:
+
+```html
 <p align="center">
 <img src="https://raw.githubusercontent.com/Manudeep06/Manudeep06/output/github-contribution-grid-snake.svg"/>
 </p>
 ```
 
 ---
-⭐ *"First, solve the problem. Then, write the code."*
+
+<div align="center">
+
+### ⭐ "First, solve the problem. Then, write the code."
+
+If you like my work, consider ⭐ starring my repositories!
+
+</div>

@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer • AI Enthusiast • AWS Learner • Competitive Programmer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Building+AI+Powered+Applications;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;AWS+Cloud+Enthusiast;140%2B+LeetCode+Problems+Solved" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;AWS+Cloud+Enthusiast;140%2B+LeetCode+Problems+Solved" />
 
 <br>
 
